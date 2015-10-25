@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="HTMH_Parser.ParsingService" CodeBehind="ParsingService.svc.cs" %>
